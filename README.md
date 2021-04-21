@@ -1,6 +1,4 @@
 
-![](https://content.droprblx.com/pfp1.png)
-
 # Tech
 
 #### Who am I?
