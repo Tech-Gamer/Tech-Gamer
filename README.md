@@ -2,7 +2,7 @@
 
 #### Who am I?
 
-I am Tech. I know Lua, JavaScript, HTML. I mainly develop on roblox platform.
+I am Tech. I know Lua, JavaScript, Vue, and HTML. I mainly develop on the roblox platform. 
 
 #### What do I do?
 
